@@ -89,10 +89,10 @@ Code Block Method 2
 ```
 import React from 'react';
 function MyComponent(props) {
-if (props.isBar) {
-return <div>Bar</div>;
+ if (props.isBar) {
+  return <div>Bar</div>;
 }
-return <div>Foo</div>;
+  return <div>Foo</div>;
 }
 export default MyComponent;
 ```
