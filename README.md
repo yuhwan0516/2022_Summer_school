@@ -136,9 +136,15 @@ Google Link: [google][googlelink]
 
 // example
 
-
-[Google](https://www.google.co.uk "Let's Go Google“)
-
+[Google](https://google.co.uk)
 
 [Naver](https://www.naver.com "Let's Go Naver")
+
+* 자동링크
+
+// examle
+
+Google Homepage: https://google.co.uk 
+Naver Homepage: <https://naver.com>
+
 
