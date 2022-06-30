@@ -60,6 +60,8 @@
           print('1 - 100 까지 짝수 합 : {0}, 홀수 합 : {1}'.format(e_tot,o_tot))
 
 
+Code Block Method 1 
+ <pre><code> {code} </code></pre> 이용방법
 
 <pre>
 <code>
@@ -79,3 +81,18 @@ Car(String modelName, int modelYear, String color, int maxSpeed) {
 }
 </code>
 </pre>
+
+
+Code Block Method 2  
+ “ ‘ ‘ ‘ “ 이용방법
+
+```
+import React from 'react';
+function MyComponent(props) {
+if (props.isBar) {
+return <div>Bar</div>;
+}
+return <div>Foo</div>;
+}
+export default MyComponent;
+```
