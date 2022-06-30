@@ -163,7 +163,17 @@ Naver Homepage: <https://naver.com>
 
 #### Image
 
-// examle 1
-
+* examle 1
 
 ![Street](다운로드.jpg "Andong")
+
+* examle 2
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
