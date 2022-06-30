@@ -38,14 +38,14 @@ Github에서 수정
 순서가 없는 목록(글머리 기호 사용: *, +, - 사용)
 
 * Blue
-* Green
-* Red
+  * Green
+    * Red
 
 + Blue
-+ Green
-+ Red
+  + Green
+    + Red
 
 - Blue
-- Green
-- Red
+  - Green
+    - Red
 
