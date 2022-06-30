@@ -58,3 +58,24 @@
                       else: o_tot += x
 
           print('1 - 100 까지 짝수 합 : {0}, 홀수 합 : {1}'.format(e_tot,o_tot))
+
+
+
+<pre>
+<code>
+class Car {
+  private String modelName;
+  private int modelYear;
+  private String color;
+  private int maxSpeed;
+  private int currentSpeed;
+Car(String modelName, int modelYear, String color, int maxSpeed) {
+  this.modelName = modelName;
+  this.modelYear = modelYear;
+  this.color = color;
+  this.maxSpeed = maxSpeed;
+  this.currentSpeed = 0;
+}
+}
+</code>
+</pre>
