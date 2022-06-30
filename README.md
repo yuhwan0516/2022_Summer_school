@@ -83,8 +83,8 @@ Car(String modelName, int modelYear, String color, int maxSpeed) {
 </pre>
 
 
-Code Block Method 2  
- “ ‘ ‘ ‘ “ 이용방법
+Code Block Method 2
+    “ ‘ ‘ ‘ “ 이용방법
 
 ```
 import React from 'react';
