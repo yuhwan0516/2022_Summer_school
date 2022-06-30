@@ -124,7 +124,9 @@ export default MyComponent;
 
 #### link
 
-// examle
-Link: [google][googlelink]
+// example
+
+Google Link: [google][googlelink]
+
 [googlelink]: https://google.co.uk "Let's Go Google"
 
