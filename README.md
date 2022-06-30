@@ -130,3 +130,13 @@ Google Link: [google][googlelink]
 
 [googlelink]: https://google.co.uk "Let's Go Google"
 
+
+
+* 외부링크
+
+// example
+
+[Google]  (https://google.co.uk "Let's Go Google“)
+
+[Naver]  (https://www.naver.com "Let's Go Naver")
+
